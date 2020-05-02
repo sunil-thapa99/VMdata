@@ -1,0 +1,6 @@
+future
+
+[dev]
+future
+numpy
+opencv-python

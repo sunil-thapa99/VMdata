@@ -4,13 +4,13 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-        name='VMdata',
-        version='1.1',
+        name='VMData',
+        version='1.0',
         description='Extract metadata from video.',
         long_description=long_description,
         long_description_content_type="text/markdown",
         url="https://github.com/lappanchappan43/VMdata",
-        packages=['VMdata'],
+        packages=['VMData'],
         author='Sunil Thapa',
         author_email='sunil43thapa@gmail.com',
         install_requires=['future'],

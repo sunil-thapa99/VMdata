@@ -1,0 +1,11 @@
+README.md
+setup.py
+VMData/Extractframes.py
+VMData/MediaInfo.py
+VMData/__init__.py
+VMData.egg-info/PKG-INFO
+VMData.egg-info/SOURCES.txt
+VMData.egg-info/dependency_links.txt
+VMData.egg-info/not-zip-safe
+VMData.egg-info/requires.txt
+VMData.egg-info/top_level.txt

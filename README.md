@@ -3,10 +3,10 @@ Metadata is text inside the video file that references the video. The Meta infor
 
 Before getting into extraction, first you need to install ffmpeg.
 ## - Ubuntu
-		*sudo apt-get install ffmpeg*
+*sudo apt-get install ffmpeg*
 ## - Windows
-		Download ffmpeg software from [FFMPEG official website](https://www.ffmpeg.org/download.html#build-windows).
-		Unzip the file and add the bin folder to **environment path**.
+Download ffmpeg software from [FFMPEG official website](https://www.ffmpeg.org/download.html#build-windows).
+Unzip the file and add the bin folder to **environment path**.
 
 ### Using MediaInfo class
 ```
